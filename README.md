@@ -1,2 +1,2 @@
 # HTML-CSS-TEMPLATE2
-SECOND WEB
+Second web I built purely with HTML AND CSS
